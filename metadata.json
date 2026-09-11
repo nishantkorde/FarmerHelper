@@ -1,0 +1,6 @@
+{
+  "name": "Farm Helper",
+  "description": "Smart direct farm-to-consumer agricultural platform with separate farmer and buyer dashboards, product listings, in-person meet & inspect quality verification, secure payment gateway, real-time order tracking, mutual ratings, and database schema flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="54"
+        android:translateY="54">
+        <!-- Shield / Emblem base in gold/white -->
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M 0,-32 C 16,-32 26,-24 26,-10 C 26,14 12,28 0,34 C -12,28 -26,14 -26,-10 C -26,-24 -16,-32 0,-32 Z" />
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M 0,-29 C 14,-29 23,-22 23,-9 C 23,12 10,25 0,31 C -10,25 -23,12 -23,-9 C -23,-22 -14,-29 0,-29 Z" />
+        <!-- Farm Sprout & Wheat elements in deep forest green -->
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M -3,20 C -3,10 -2,0 0,-16 C 2,0 3,10 3,20 Z" />
+        <!-- Left leaf -->
+        <path
+            android:fillColor="#388E3C"
+            android:pathData="M 0,4 C -8,0 -16,-1 -15,-9 C -8,-10 -2,-2 0,4 Z" />
+        <!-- Right leaf -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M 0,-3 C 8,-7 16,-8 15,-16 C 8,-17 2,-9 0,-3 Z" />
+        <!-- Top wheat grains -->
+        <path
+            android:fillColor="#F57F17"
+            android:pathData="M 0,-17 C -4,-21 0,-26 0,-26 C 0,-26 4,-21 0,-17 Z" />
+        <path
+            android:fillColor="#F57F17"
+            android:pathData="M -4,-12 C -8,-15 -6,-19 -6,-19 C -6,-19 -2,-17 -4,-12 Z" />
+        <path
+            android:fillColor="#F57F17"
+            android:pathData="M 4,-12 C 8,-15 6,-19 6,-19 C 6,-19 2,-17 4,-12 Z" />
+        <!-- Hand / Farmer support arc -->
+        <path
+            android:fillColor="#1B5E20"
+            android:pathData="M -16,14 C -10,20 -4,23 0,23 C 4,23 10,20 16,14 C 13,16 6,19 0,19 C -6,19 -13,16 -16,14 Z" />
+    </group>
+</vector>
